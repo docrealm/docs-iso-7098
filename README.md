@@ -16,3 +16,8 @@
     - [ ] 【中文版】信息与文献——中文罗马字母拼写法
     - [x] 【英文版】Information and documentation - Romanization of Chinese
     - [ ] 【法文版】Information et documentation - Romanisation du chinois
+
+## 各国标准
+
+- 澳大利亚、新西兰 AS/NZS ISO 7098:2025
+- 英国 BS ISO 7098:2025
